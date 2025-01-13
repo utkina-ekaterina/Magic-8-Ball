@@ -1,3 +1,6 @@
+# Project was done in the process of completing Udemy XCode and Swift tutorial, the skeleton of the project can be found here: https://github.com/appbrewery/Magic-8-Ball-iOS13
+
+
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Magic 8 Ball
